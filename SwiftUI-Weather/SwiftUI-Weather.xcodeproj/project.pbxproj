@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE79EFBE279F0F2400945F14 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE79EFBD279F0F2400945F14 /* WeatherButton.swift */; };
+		FE79EFBF279F0F2400945F14 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE79EFBD279F0F2400945F14 /* WeatherButton.swift */; };
 		FEC7FAC2279ED4EF00A6CE05 /* SwiftUI_WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC7FAB2279ED4EE00A6CE05 /* SwiftUI_WeatherApp.swift */; };
 		FEC7FAC3279ED4EF00A6CE05 /* SwiftUI_WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC7FAB2279ED4EE00A6CE05 /* SwiftUI_WeatherApp.swift */; };
 		FEC7FAC4279ED4EF00A6CE05 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC7FAB3279ED4EE00A6CE05 /* ContentView.swift */; };
@@ -16,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE79EFBD279F0F2400945F14 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 		FEC7FAB2279ED4EE00A6CE05 /* SwiftUI_WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherApp.swift; sourceTree = "<group>"; };
 		FEC7FAB3279ED4EE00A6CE05 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FEC7FAB4279ED4EF00A6CE05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,6 +60,7 @@
 				FEC7FAB2279ED4EE00A6CE05 /* SwiftUI_WeatherApp.swift */,
 				FEC7FAB3279ED4EE00A6CE05 /* ContentView.swift */,
 				FEC7FAB4279ED4EF00A6CE05 /* Assets.xcassets */,
+				FE79EFBD279F0F2400945F14 /* WeatherButton.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -178,6 +182,7 @@
 			files = (
 				FEC7FAC4279ED4EF00A6CE05 /* ContentView.swift in Sources */,
 				FEC7FAC2279ED4EF00A6CE05 /* SwiftUI_WeatherApp.swift in Sources */,
+				FE79EFBE279F0F2400945F14 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,6 +192,7 @@
 			files = (
 				FEC7FAC5279ED4EF00A6CE05 /* ContentView.swift in Sources */,
 				FEC7FAC3279ED4EF00A6CE05 /* SwiftUI_WeatherApp.swift in Sources */,
+				FE79EFBF279F0F2400945F14 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
