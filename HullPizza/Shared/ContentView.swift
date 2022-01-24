@@ -12,6 +12,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("Huli Pizza Company")
+<<<<<<< HEAD
                 .font(.title)
             Image("Surf Board")
                 .resizable()
@@ -30,11 +31,16 @@ struct ContentView: View {
             }
         }
         .padding()
+=======
+            Text("Order Pizza")
+        }
+>>>>>>> refs/remotes/origin/main
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
+<<<<<<< HEAD
         Group{
             ContentView()
             ContentView()
@@ -43,5 +49,8 @@ struct ContentView_Previews: PreviewProvider {
         }
         
            
+=======
+        ContentView()
+>>>>>>> refs/remotes/origin/main
     }
 }
