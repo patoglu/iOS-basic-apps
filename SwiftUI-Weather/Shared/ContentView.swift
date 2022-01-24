@@ -16,7 +16,12 @@ struct ContentView: View {
         -@StateObject
         -@ObservedObject
         -@EnvironmentObject
+     Challenges:
+     1. Build model and refactor HStack with an array
+     2. Get real data from a weather API.
+     3. Build a TabBar that shows multiple cities.
      */
+    
     
     @State private var isNight = false
     var body: some View {
